@@ -1,0 +1,6 @@
+C:\Users\Petr\Desktop\Csharp-pCv\KlientServerInterFace\SrvInterface\bin\Debug\SrvInterface.dll
+C:\Users\Petr\Desktop\Csharp-pCv\KlientServerInterFace\SrvInterface\bin\Debug\SrvInterface.pdb
+C:\Users\Petr\Desktop\Csharp-pCv\KlientServerInterFace\SrvInterface\obj\Debug\SrvInterface.csproj.AssemblyReference.cache
+C:\Users\Petr\Desktop\Csharp-pCv\KlientServerInterFace\SrvInterface\obj\Debug\SrvInterface.csproj.CoreCompileInputs.cache
+C:\Users\Petr\Desktop\Csharp-pCv\KlientServerInterFace\SrvInterface\obj\Debug\SrvInterface.dll
+C:\Users\Petr\Desktop\Csharp-pCv\KlientServerInterFace\SrvInterface\obj\Debug\SrvInterface.pdb

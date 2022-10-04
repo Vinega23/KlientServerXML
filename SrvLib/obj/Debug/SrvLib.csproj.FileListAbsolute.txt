@@ -1,0 +1,11 @@
+C:\Users\Petr\Desktop\Csharp-pCv\KlientServerInterFace\SrvLib\obj\Debug\SrvLib.csproj.AssemblyReference.cache
+C:\Users\Petr\Desktop\Csharp-pCv\KlientServerInterFace\SrvLib\obj\Debug\SrvLib.csproj.SuggestedBindingRedirects.cache
+C:\Users\Petr\Desktop\Csharp-pCv\KlientServerInterFace\SrvLib\obj\Debug\SrvLib.csproj.CoreCompileInputs.cache
+C:\Users\Petr\Desktop\Csharp-pCv\KlientServerInterFace\SrvLib\bin\Debug\SrvLib.exe.config
+C:\Users\Petr\Desktop\Csharp-pCv\KlientServerInterFace\SrvLib\bin\Debug\SrvLib.exe
+C:\Users\Petr\Desktop\Csharp-pCv\KlientServerInterFace\SrvLib\bin\Debug\SrvLib.pdb
+C:\Users\Petr\Desktop\Csharp-pCv\KlientServerInterFace\SrvLib\bin\Debug\SrvInterface.dll
+C:\Users\Petr\Desktop\Csharp-pCv\KlientServerInterFace\SrvLib\bin\Debug\SrvInterface.pdb
+C:\Users\Petr\Desktop\Csharp-pCv\KlientServerInterFace\SrvLib\obj\Debug\SrvLib.csproj.CopyComplete
+C:\Users\Petr\Desktop\Csharp-pCv\KlientServerInterFace\SrvLib\obj\Debug\SrvLib.exe
+C:\Users\Petr\Desktop\Csharp-pCv\KlientServerInterFace\SrvLib\obj\Debug\SrvLib.pdb
